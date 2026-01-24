@@ -14,13 +14,14 @@ The repository is  to calculate **specific heat capacity ($C_p$)** using molecul
 
 The `data/` directory contains the datasets used for model training and evaluation:
 
-- `data/experimental/Cp_exp.csv`  
+- `data/experimental/CP_EXP.csv`  
   Experimental $C_p$ values used for fine-tuning and evaluation.
 
-- `data/gc/Cp_gc.csv`  
+- `data/gc/CP_GC.csv`  
   Group-contribution–derived $C_p$ values used as low-fidelity proxy data.
 
-- `data/md/Cp_md.csv`  
+- `data/md/CP_MD.csv`  
+- `data/md/CP_MD_bias_corrected.csv`  
   Molecular-dynamics–derived $C_p$ values used as low-fidelity proxy data.
 
 All datasets contain polymer identifiers and SMILES strings consistent with the manuscript.
