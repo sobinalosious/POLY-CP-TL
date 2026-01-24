@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Results / large outputs
+results/
+results_*/
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Conda / virtualenv
+.env
+.venv
+
+# Logs
+*.log
+

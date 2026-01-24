@@ -1,0 +1,16 @@
+name: polymer-workflow
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - rdkit
+  - psi4
+  - scikit-learn
+  - joblib
+  - packaging
+  - simple-dftd3      
+  - dftd3-python      
+
+
