@@ -2,7 +2,7 @@
 
 This repository contains all data, simulation workflows, and machine-learning scripts used in the paper:
 
-**“Transfer Learning for Polymer Specific Heat Capacity Prediction”**  
+**“A Transfer Learning Framework Integrating Molecular Dynamics and Group Contribution Methods for Predicting Polymer Specific Heat Capacity”**  
 
 The repository is  to calculate **specific heat capacity ($C_p$)** using molecular dynamics (MD), group contribution (GC), and train using machine-learning (ML).
 
