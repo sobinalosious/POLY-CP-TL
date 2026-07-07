@@ -14,8 +14,7 @@ The repository is  to calculate **specific heat capacity ($C_p$)** using molecul
 
 The `data/` directory contains the datasets used for model training and evaluation:
 
-- `data/experimental/CP_EXP.csv`  
-  Experimental $C_p$ values used for fine-tuning and evaluation.
+
 
 - `data/gc/CP_GC.csv`  
   Group-contribution–derived $C_p$ values used as low-fidelity proxy data.
